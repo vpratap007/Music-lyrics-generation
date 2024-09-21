@@ -114,7 +114,7 @@ pip install tensorflow pandas numpy
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/vpratap007/your-repo-name.git
    cd your-repo-name
    ```
 
